@@ -4,6 +4,7 @@ import './App.css';
 import Title from './Title';
 import POPOSList from './POPOSList';
 import Footer from './Footer';
+import data from './sfpopos-data';
 
 function App() {
 	return (
