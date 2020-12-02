@@ -1,0 +1,11 @@
+.POPOSSpace {
+	border: 1px black solid;
+	padding-top: 10px;
+}
+
+.POPOSSpace-text {
+	padding-top: 5px;
+	padding-bottom: 10px;
+	border-top: 1px black solid;
+	background-color: rgb(240, 240, 240);
+}
