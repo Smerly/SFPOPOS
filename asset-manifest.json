@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SFPOPOS/static/css/main.d9a12ecc.chunk.css",
+    "main.js": "/SFPOPOS/static/js/main.41d3f1c7.chunk.js",
+    "main.js.map": "/SFPOPOS/static/js/main.41d3f1c7.chunk.js.map",
+    "runtime-main.js": "/SFPOPOS/static/js/runtime-main.a100b7f7.js",
+    "runtime-main.js.map": "/SFPOPOS/static/js/runtime-main.a100b7f7.js.map",
+    "static/js/2.c0236d53.chunk.js": "/SFPOPOS/static/js/2.c0236d53.chunk.js",
+    "static/js/2.c0236d53.chunk.js.map": "/SFPOPOS/static/js/2.c0236d53.chunk.js.map",
+    "static/js/3.1e3cf94e.chunk.js": "/SFPOPOS/static/js/3.1e3cf94e.chunk.js",
+    "static/js/3.1e3cf94e.chunk.js.map": "/SFPOPOS/static/js/3.1e3cf94e.chunk.js.map",
+    "index.html": "/SFPOPOS/index.html",
+    "static/css/main.d9a12ecc.chunk.css.map": "/SFPOPOS/static/css/main.d9a12ecc.chunk.css.map",
+    "static/js/2.c0236d53.chunk.js.LICENSE.txt": "/SFPOPOS/static/js/2.c0236d53.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/SFPOPOS/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a100b7f7.js",
+    "static/js/2.c0236d53.chunk.js",
+    "static/css/main.d9a12ecc.chunk.css",
+    "static/js/main.41d3f1c7.chunk.js"
+  ]
+}
