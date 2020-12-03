@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SFPOPOS/static/css/main.d9a12ecc.chunk.css",
-    "main.js": "/SFPOPOS/static/js/main.41d3f1c7.chunk.js",
-    "main.js.map": "/SFPOPOS/static/js/main.41d3f1c7.chunk.js.map",
+    "main.js": "/SFPOPOS/static/js/main.7fb61f0e.chunk.js",
+    "main.js.map": "/SFPOPOS/static/js/main.7fb61f0e.chunk.js.map",
     "runtime-main.js": "/SFPOPOS/static/js/runtime-main.a100b7f7.js",
     "runtime-main.js.map": "/SFPOPOS/static/js/runtime-main.a100b7f7.js.map",
     "static/js/2.c0236d53.chunk.js": "/SFPOPOS/static/js/2.c0236d53.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a100b7f7.js",
     "static/js/2.c0236d53.chunk.js",
     "static/css/main.d9a12ecc.chunk.css",
-    "static/js/main.41d3f1c7.chunk.js"
+    "static/js/main.7fb61f0e.chunk.js"
   ]
 }
